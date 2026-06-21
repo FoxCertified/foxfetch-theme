@@ -1,5 +1,6 @@
 
 # FoxFetch, A theme for FastFetch
+This is the standalone github page for the FastFetch theme featured in [Foxdora Post-Install Script.](https://github.com/FoxCertified/foxdora-fedora-post-install-script)
 
 ### How to install the theme(s):
 
