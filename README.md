@@ -4,7 +4,7 @@ This is the standalone github page for the FastFetch theme featured in [Foxdora 
 
 ### How to install the theme(s):
 
- 1. Install [Foxfetch with Logo](https://github.com/FoxCertified/foxfetch-theme/releases/download/Release/foxfetch-logo.tar.gz) or [Foxfetch with Image](https://github.com/FoxCertified/foxfetch-theme/releases/download/Release/foxfetch-image.tar.gz)
+ 1. Download [Foxfetch with Logo](https://github.com/FoxCertified/foxfetch-theme/releases/download/Release/foxfetch-logo.tar.gz) or [Foxfetch with Image](https://github.com/FoxCertified/foxfetch-theme/releases/download/Release/foxfetch-image.tar.gz)
  2. Move ***foxfetch-[version].tar.gz*** to your Home folder
  3. Right click on ***foxfetch-[version].tar.gz*** and select Extract>Extract Here, go into the folder.
  4.  Move the Fastfetch folder to .config in your Home directory.
