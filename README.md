@@ -18,7 +18,7 @@ This is the standalone github page for the FastFetch theme featured in [Foxdora 
 
 ## Credits
 FoxFetch is a heavy edit of FastCat's Casual theme for Fastfetch.
-https://github.com/m3tozz/FastCat
+https://github.com/m3tozz-reborn/FastCat
 
 ## Project status
 I will keep working on this as long as I keep using Linux :)
