@@ -1,0 +1,1 @@
+# foxfetch-theme
