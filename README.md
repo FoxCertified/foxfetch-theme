@@ -16,10 +16,5 @@ This is the standalone github page for the FastFetch theme featured in [Foxdora 
   ### Foxfetch with custom image
   ![Foxfetch output with Image](https://github.com/FoxCertified/foxfetch-theme/blob/main/Foxfetch%20with%20Image.png?raw=true)
 
-## Credits
-FoxFetch is a heavy edit of FastCat's Casual theme for Fastfetch.
-
-https://github.com/m3tozz-reborn/FastCat
-
 ## Project status
 I will keep working on this as long as I keep using Linux :)
